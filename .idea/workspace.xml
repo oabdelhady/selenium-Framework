@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01b7aa81-58ec-4ae0-9055-1b83b1786ce2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fGNrDGvanbeut2IWa3ovt6lltS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/data" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oabdelhady\IdeaProjects\Training - project\src\test\java\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegistrationSuccessTC (1)">
+    <configuration name="RegistrationTestData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.RegistrationTestData" />
+      <module name="Training - project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginSuccessTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="training-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginSuccessTC" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginSuccessTC.validCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Training - project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginSuccessTC" />
+      <option name="METHOD_NAME" value="validCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationSuccessTC (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Training - project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegistrationSuccessTC" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationSuccessTC.registerValidData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Training - project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegistrationSuccessTC" />
+      <option name="METHOD_NAME" value="registerValidData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegistrationSuccessTC (1)" />
+        <item itemvalue="TestNG.RegistrationSuccessTC.registerValidData" />
+        <item itemvalue="Application.RegistrationTestData" />
+        <item itemvalue="TestNG.LoginSuccessTC.validCredentials" />
+        <item itemvalue="TestNG.LoginSuccessTC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b7aa81-58ec-4ae0-9055-1b83b1786ce2" name="Default Changelist" comment="" />
+      <created>1595840665237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595840665237</updated>
+      <workItem from="1595840675004" duration="33560000" />
+      <workItem from="1595919916809" duration="7159000" />
+      <workItem from="1596658156230" duration="48000" />
+      <workItem from="1596658495210" duration="4301000" />
+      <workItem from="1597663354409" duration="94000" />
+      <workItem from="1598095886017" duration="4498000" />
+      <workItem from="1598134387261" duration="1494000" />
+      <workItem from="1598352883770" duration="13000" />
+      <workItem from="1598379458977" duration="602000" />
+      <workItem from="1598462169545" duration="600000" />
+      <workItem from="1599650638357" duration="600000" />
+      <workItem from="1600175661023" duration="13000" />
+      <workItem from="1600260187556" duration="6000" />
+      <workItem from="1600768135171" duration="22500000" />
+      <workItem from="1600853836883" duration="20134000" />
+      <workItem from="1600946752785" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="130" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1600818350058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600818350058" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1595857364483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1595857364483" />
+    <state x="484" y="233" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595874669314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="233" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1595874669314" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595880283966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1595880283966" />
+    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1595924186909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595924186909" />
+    <state width="1306" height="219" key="GridCell.Tab.0.bottom" timestamp="1600890747881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600890747881" />
+    <state width="1306" height="219" key="GridCell.Tab.0.center" timestamp="1600890747880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600890747880" />
+    <state width="1306" height="219" key="GridCell.Tab.0.left" timestamp="1600890747880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600890747880" />
+    <state width="1306" height="219" key="GridCell.Tab.0.right" timestamp="1600890747881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600890747881" />
+    <state width="1306" height="219" key="GridCell.Tab.1.bottom" timestamp="1600890747881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600890747881" />
+    <state width="1306" height="219" key="GridCell.Tab.1.center" timestamp="1600890747881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600890747881" />
+    <state width="1306" height="219" key="GridCell.Tab.1.left" timestamp="1600890747881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600890747881" />
+    <state width="1306" height="219" key="GridCell.Tab.1.right" timestamp="1600890747881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600890747881" />
+    <state x="207" y="30" key="Maven.ArtifactSearchDialog" timestamp="1598134618098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="207" y="30" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1598134618098" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1600946759610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600946759610" />
+    <state x="65" y="76" key="new project wizard" timestamp="1600873256706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="76" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600873256706" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1600885352019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600885352019" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/data/RegistrationTestData.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
